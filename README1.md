@@ -99,4 +99,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ---
 
 ## Contact
-For issues or questions, please create a GitHub issue or reach out to [Your Email/Contact Information].
+GitHub: naso7y
+
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: www.linkedin.com/in/nos7y/
