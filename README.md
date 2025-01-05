@@ -87,11 +87,6 @@ Connect the motors to the motor driver and ensure the power supply is sufficient
 
 ---
 
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code with proper attribution.
-
----
-
 ## Acknowledgments
 - Developed using the [Dabble](https://thestempedia.com/product/dabble/) library for ESP32.
 - Inspired by IoT and robotics enthusiasts.
